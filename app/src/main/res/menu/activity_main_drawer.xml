@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:id="@+id/nav_item_one"
+            android:icon="@drawable/home"
+            android:title="Inicio"/>
+        <item android:id="@+id/nav_item_two"
+            android:icon="@drawable/tratamiento"
+            android:title="Tratamientos"/>
+        <item android:id="@+id/nav_item_three"
+            android:icon="@drawable/promociones"
+            android:title="Promociones"/>
+        <item android:id="@+id/nav_item_four"
+            android:icon="@drawable/cita"
+            android:title="Agendar cita"/>
+        <item android:id="@+id/nav_item_five"
+            android:icon="@drawable/reporte"
+            android:title="Reporte citas"/>
+    </group>
+</menu>

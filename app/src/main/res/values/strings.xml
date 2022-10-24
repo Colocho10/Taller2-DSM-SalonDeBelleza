@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="txtprincipal">Kleoz</string>
+    <string name="identselecservice">Seleccionar servicio</string>
+    <string name="tratamiento">Tratamiento</string>
+    <string name="alisado">Alisado</string>
+    <string name="promociones">Promociones</string>
+    <string name="manicure">Manicure</string>
+</resources>
